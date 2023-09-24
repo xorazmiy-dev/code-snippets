@@ -1,2 +1,2 @@
 # code-snippets
-This repo contains code snippets used by courses 
+This repo contains code snippets used in courses 
