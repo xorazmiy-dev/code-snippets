@@ -8,7 +8,7 @@ int main() {
     } else if (x == 10) {
         printf("x 10 ga teng\n");
     } else {
-        printf("x 10 dan kichik yoki teng\n");
+        printf("x 10 dan kichik\n");
     }
 
     return 0;
