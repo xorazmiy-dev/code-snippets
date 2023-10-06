@@ -3,7 +3,7 @@
 int main() {
     int i; // tsikl o'zgaruvchisi yaratiladi
 
-    for (i = 1; i <= 10; i++) {   // tsikl o'zgaruvchisi tayinlanadi; shart tekshiriladi; o'zgaruvchi 1 ga oshiriladi
+    for (i = 1; i <= 10; i++) {
         printf("%d\n", i); // tsikl vazifasi bajariladi
     }
 
