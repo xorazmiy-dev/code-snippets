@@ -11,7 +11,7 @@ int main() {
 
     c = sum(a, b); // sum funksiyasi chaqiriladi va natija c ga saqlanadi
 
-    printf("sum = %d\n", c);
+    printf("a + b = %d\n", c);
 
     return 0;
 }
