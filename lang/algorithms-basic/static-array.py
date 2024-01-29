@@ -35,7 +35,7 @@ class StaticArray:
     def __str__(self):
         return str(self.array)
 
-# Misol
+# Foydalanish
 array = StaticArray(5)
 array.insert(0, 10)
 array.insert(1, 20)
