@@ -42,6 +42,6 @@ ll.append(1)
 ll.append(2)
 ll.append(3)
 
-ll.print_list()  # Output: 1 -> 2 -> 3 -> None
+ll.print_list()  # Chiquvchi ma'lumot: 1 -> 2 -> 3 -> None
 
-print("Node with data 2:", ll.find(2).data)  # Output: 2 elementli Node: 2
+print("Node with data 2:", ll.find(2).data)  # Chiquvchi ma'lumot: 2 elementli Node: 2
