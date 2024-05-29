@@ -1,5 +1,8 @@
 # Bu dasturning maqsadini tushuntiruvchi izoh
 
+# Import bayonoti
+import math
+
 # O'zgaruvchan deklaratsiya
 number = 5
 
