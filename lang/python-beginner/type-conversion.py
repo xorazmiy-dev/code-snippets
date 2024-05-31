@@ -1,19 +1,19 @@
-# int dan floatga aniq konvertatsiya qilish
+# int dan floatga aniq turlash
 
 int_number = 42
 float_number = float(int_number)
-print(float_number) # Output: 42.0
+print(float_number) # Natija: 42.0
 
-# float dan int ga aniq konvertatsiya
+# float dan int ga aniq turlash
 
 float_number = 3.14
 int_number = int(float_number)
-print(int_number) # Output: 3
+print(int_number) # Natija: 3
 
 
-# int dan satrga aniq konvertatsiya
+# int dan satrga aniq turlash
 
 int_number = 123
 str_value = int(int_number)
 
-print(str_value) # Output: '123'
+print(str_value) # Natija: '123'
