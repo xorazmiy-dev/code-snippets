@@ -4,5 +4,5 @@ yosh = 16
 if yosh > 18:
     print("Sizga mashina haydashga ruxsat berilgan.")
 else:
-    print("Siz mashina uchun juda yoshsiz.")
+    print("Siz mashina haydash uchun juda yoshsiz.")
 
