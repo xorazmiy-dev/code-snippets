@@ -4,14 +4,3 @@ kesiladigan_satr = "Hello world"
 # enumerate() funksiyasi iteratsiyalar sonini kuzatish imkonini beradi
 for indeks, qiymat in enumerate(kesiladigan_satr):
     print(f"{indeks} -> {qiymat}")
-
-kesiladigan_satr = "Hello world"
-
-# Output: world (indeks 6 da boshlanadi, 12 da tugaydi)
-print(kesiladigan_satr[6:12])
-
-# Output: world (6 indeksdan boshlanadi, oxirida tugaydi)
-print(kesiladigan_satr[6:]) 
-
-# Output: Hello (0 indeksdan boshlanadi, oxirida bo'sh joy qoldirilgan 6 bilan tugaydi)
-print(kesiladigan_satr[:6]) 

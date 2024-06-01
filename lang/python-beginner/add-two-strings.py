@@ -1,4 +1,5 @@
-xabar = "Siz mening bayramimga taklif qilinasiz!"
+xabar = "Men sizni bayram dasturxonimizga taklif qilaman!"
 ism = "Izzat"
+
 taklifnoma = ism + ", " + xabar
-print(taklifnoma) # Output: Izzat, Siz mening bayramimga taklif qilinasiz!
+print(taklifnoma) # Natija: Izzat, Men sizni bayram dasturxonimizga taklif qilaman!
