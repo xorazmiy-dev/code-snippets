@@ -4,16 +4,16 @@ while count <= 5:
    print(f"Joriy hisob: {count}")
 
    if count == 3:
-       print("Tsikldan chiqib ketish.")
+       print("Halqadan chiqib ketish.")
        break
 
    count += 1
 else:
-    print(f"Tsikl yakunlandi.")
+    print(f"Halqa yakunlandi.")
 
 
 # Chiqish:
 # Joriy hisob: 1
 # Joriy hisob: 2
 # Joriy hisob: 3
-# Tsikldan chiqib ketish.
+# Halqadan chiqib ketish.
