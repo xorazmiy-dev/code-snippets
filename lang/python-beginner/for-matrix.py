@@ -3,9 +3,9 @@ matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 for row in matrix:
     for element in row:
         print(element, end=" ") 
-    print() # Qator tugagach keyingisi o’ting
+    print() # Qator tugagach keyingisiga o’ting
 
-# Chiqish:
+# Natija:
 # 1 2 3
 # 4 5 6
 # 7 8 9
