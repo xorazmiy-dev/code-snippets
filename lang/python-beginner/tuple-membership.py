@@ -1,5 +1,5 @@
 # Tupledagi a’zolik
-classes = ('classA', 'classB')
+my_tuple = ('classA', 'classB')
 
 is_present = 'classB' in my_tuple
 print(is_present)
