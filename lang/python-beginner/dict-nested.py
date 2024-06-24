@@ -6,4 +6,4 @@ nested_dict = {
     }
 }
 
-print(["talaba"]["ism"]) # Natija: Al-Xorazmiy
+print(nested_dict["talaba"]["ism"]) # Natija: Al-Xorazmiy
