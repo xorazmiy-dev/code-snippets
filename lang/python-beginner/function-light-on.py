@@ -1,9 +1,9 @@
 def turn_on(xona: dict): # dict havola orqali qabul qilingan
-    light_status = xona.get("light_is_on")
+    chiroq_holati = xona.get("chiroq_yongan")
     
-    # light_status kalit juftligi mavjudligini tekshirish
-    if light_status is not None:
-        xona["light_is_on"] = True # "light_is_on"ni True ga tenglash
+    # chiroq_holati kalit juftligi mavjudligini tekshirish
+    if chiroq_holati is not None:
+        xona["chiroq_yongan"] = True # "chiroq_yongan"ni True ga tenglash
         return True # chiroq yoqilganligini bildiruvchi True qiymatini qaytaradi
 
     return False
