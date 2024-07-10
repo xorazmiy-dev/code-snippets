@@ -1,2 +1,3 @@
 add = lambda x, y: x + y
-result = add(3, 5) # Natija: 8
+result = add(3, 5) 
+print(result) # Natija: 8

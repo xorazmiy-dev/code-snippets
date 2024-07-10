@@ -8,7 +8,7 @@ def turn_on(xona: dict): # dict havola orqali qabul qilingan
 
     return False
 
-xona_bir = {"nomi": "Oshxona", "light_is_on": False, "harorat": 25.0}
+xona_bir = {"nomi": "Oshxona", "chiroq_yongan": False, "harorat": 25.0}
 
-is_light_on = turn_on(xona_bir)
-print(is_light_on) # True, ya’ni chiroq yoqilgan
+chiroq = turn_on(xona_bir)
+print(chiroq) # True, ya’ni chiroq yoqilgan

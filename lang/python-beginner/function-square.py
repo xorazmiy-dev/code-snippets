@@ -7,5 +7,5 @@ def kvadratni_hisoblash(raqam):
     """
     return raqam ** 2
 
-natija = kvadranti_hisoblash(5)
+natija = kvadratni_hisoblash(5)
 print(natija)  # Natija: 25

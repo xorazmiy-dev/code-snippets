@@ -4,4 +4,5 @@ def outer_function(x): # x = 10
     return inner_function
 
 closure = outer_function(10) 
-result = closure(5) # Natija: 15
+result = closure(5) 
+print(result) # Natija: 15
