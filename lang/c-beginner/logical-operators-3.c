@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int a = 1;  // Nol bo'lmagan qiymat rost deb baholanadi
+    int a = 1; // true
 
-    int natija = !a; // Mantiqiy NOT
+    int natija = !a; // NOT
 
     printf("natija: %d\n", natija);
     return 0;
