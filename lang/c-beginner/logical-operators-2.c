@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    int a = 1;  // Nol bo'lmagan qiymat rost deb baholanadi
-    int b = 0;  // yolg'on deb baholanadi
+    int a = 1;  // true
+    int b = 0;  // false
 
-    int natija = a || b; // Mantiqiy OR
+    int natija = a || b; // OR
 
     printf("natija: %d\n", natija);
     return 0;
