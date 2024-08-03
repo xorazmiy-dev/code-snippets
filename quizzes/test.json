@@ -1,0 +1,16 @@
+[
+    {
+        question: "In what years was the American Civil War fought?",
+        choices: [
+            "1796-1803", "1810-1814", "1861-1865", "1939-1945"
+        ],
+        answer: "1861-1865"
+    },
+    {
+        question: "Whose quote is this: \"Give me liberty, or give me death\"?",
+        choices: [
+            "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
+        ],
+        answer: "Patrick Henry"
+    }
+]
