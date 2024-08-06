@@ -7,5 +7,5 @@ int main() {
     int natija = a == b;
     printf("natija: %d", natija)
 		
-		return 0
+    return 0
 }
