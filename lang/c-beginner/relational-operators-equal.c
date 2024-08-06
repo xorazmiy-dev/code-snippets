@@ -5,7 +5,7 @@ int main() {
     int b = 3;
     
     int natija = a != b;
-    printf("natija: %d", natija)
+    printf("natija: %d", natija);
 		
-    return 0
+    return 0;
 }
