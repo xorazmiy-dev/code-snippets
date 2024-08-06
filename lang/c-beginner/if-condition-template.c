@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int shart = 1;
+  
+    if (shart) {
+        printf("if ning tanasi bajarildi.\n");
+    }
+
+    return 0;
+}
