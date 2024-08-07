@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    float harorat = 37.5; // bemorning tana harorati
+    float harorat = 37.5;
 
-    if (harorat > 37) { // agar tana harorati 37 dan yuqori bo'lsa
+    if (harorat > 37) {
         printf("siz kasalsiz\n")
     } 
 
