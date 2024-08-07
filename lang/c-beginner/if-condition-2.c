@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    float harorat = 36.6; // bemorning tana harorati
+    float harorat = 36.6;
 
-    if (harorat > 37) { // tana harorati 37 dan yuqori
+    if (harorat > 37) {
         printf("siz kasalsiz\n");
     } 
 
-    if (harorat <= 37) { // tana harorati 37 dan yuqori emas
+    if (harorat <= 37) {
         printf("siz sog'lomsiz\n");
     } 
 
