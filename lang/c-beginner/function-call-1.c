@@ -1,17 +1,16 @@
 #include <stdio.h>
 
-// Funksiyani e'lon qilish
-int add(int a, int b);
+// Function declaration
+int sum(int a, int b);
 
 int main() {
-    // add funksiyasini chaqirish va natijasini o'zgaruvchiga saqlash
-    int sum = add(5, 3);
-    printf("Yig'indi: %d\n", sum);
+    int c = sum(5, 3); // function call
+    printf("Yig'indi: %d\n", c);
 
     return 0;
 }
 
-// Funksiyani aniqlash
-int add(int a, int b) {
-    return a + b; // The function returns the sum of a and b
+// Function definition
+int sum(int a, int b) {
+    return a + b;
 }
