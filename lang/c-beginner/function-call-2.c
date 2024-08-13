@@ -22,4 +22,6 @@ int main() {
     } else {
         printf("toq son: %d\n", c);
     }
+
+    return 0;
 }
