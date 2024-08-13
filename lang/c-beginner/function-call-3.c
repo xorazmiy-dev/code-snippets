@@ -16,4 +16,6 @@ int main() {
     toq_yoki_juft(a);
     toq_yoki_juft(b);
     toq_yoki_juft(c);
+
+    return 0;
 }
