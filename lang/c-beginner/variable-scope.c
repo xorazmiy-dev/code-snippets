@@ -8,4 +8,6 @@ void funksiya() {
 
 int main() {
 	printf("%d", local_var);
+
+	return 0;
 }
