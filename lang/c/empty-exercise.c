@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
   // kodni shu yerga yozing
   
   return 0;
