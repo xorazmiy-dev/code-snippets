@@ -6,9 +6,9 @@ int main() {
   int b = 20;
   int c = 30;
 
-  int sum = a + b + c;
+  int d = a + b + c;
 
-  printf("sum: %d\n", sum);
+  printf("Javob: %d\n", d);
   
   return 0;
 }
