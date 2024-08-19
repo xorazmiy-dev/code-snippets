@@ -5,7 +5,7 @@ int main() {
   float a = 10.9;
   float b = 5.5;
 
-  // ayirmani hisoblanadi.
+  // ayirma hisoblanadi.
   float c = a - b; 
 
   // ayirmaning kvadratini topish uchun o'ziga ko'paytiriladi.
