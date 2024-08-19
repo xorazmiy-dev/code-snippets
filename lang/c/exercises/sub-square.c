@@ -8,7 +8,7 @@ int main() {
   float c = a - b;
   c = c * c;
 
-  printf("Javob: %d\n", c);
+  printf("Javob: %f\n", c);
   
   return 0;
 }
