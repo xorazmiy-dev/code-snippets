@@ -5,9 +5,9 @@ int main() {
   int a = 99;
   int b = 20;
 
-  int mod = a % b;
+  int c = a % b;
 
-  printf("qoldiq: %d\n", mod);
+  printf("qoldiq: %d\n", c);
   
   return 0;
 }
