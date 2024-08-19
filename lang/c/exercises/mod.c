@@ -7,7 +7,7 @@ int main() {
 
   int c = a % b;
 
-  printf("qoldiq: %d\n", c);
+  printf("Javob: %d\n", c);
   
   return 0;
 }
