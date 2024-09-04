@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    float a; // o'zgaruvchi yaratiladi
+    float a; // variable a
 
-    scanf("%f", &a); // konsoldagi qiymat o'zgaruvchiga saqlanadi
+    scanf("%f", &a); // kirish qiymatini variable ga saqlash
 
-    printf("%f\n", a); // o'zgaruvchining qiymati konsolga chiqariladi
+    printf("%f\n", a); // variable ning qiymatini chiqarish
 
     return 0;
 }
