@@ -5,7 +5,7 @@ yigindi_massiv = []
 
 
 # "times" iteratori orqali massiv_1 va massiv_2
-# elementlarini qo'shish va yigindi_massiv ga briktirish
+# elementlarini qo'shish va yigindi_massiv ga biriktirish
 # "massiv_1.size" necha marta "times" iteratori
 # takrorlanishini belgilaydi
 massiv_1.size.times do |index|

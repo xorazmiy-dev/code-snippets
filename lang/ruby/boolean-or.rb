@@ -15,7 +15,7 @@
 # =======================
 
 
-# "to'g'ri yiki to'g'ri" - true qiymat qaytaradi
+# "to'g'ri yoki to'g'ri" - true qiymat qaytaradi
 puts true || true # true
 
 

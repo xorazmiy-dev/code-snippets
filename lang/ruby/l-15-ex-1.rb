@@ -1,4 +1,4 @@
-# Krirish konsolidan ma'lumotlarni o'qish
+# Kirish konsolidan ma'lumotlarni o'qish
 operator = gets.chomp
 
 

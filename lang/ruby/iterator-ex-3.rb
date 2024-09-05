@@ -1,5 +1,5 @@
 # Quyidagi ismlar massiv e'lon qiling
-# "anvaro", "hilola", "sanjar", "abror", "bekzod"
+# "anvar", "hilola", "sanjar", "abror", "bekzod"
 
 
 # Bosh harflangan massiv
@@ -10,5 +10,5 @@
 # saralangan_massiv =
 
 
-# Saralngan massivni chop etish
+# Saralangan massivni chop etish
 # pp saralangan_massiv

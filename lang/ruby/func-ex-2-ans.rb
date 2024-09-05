@@ -18,11 +18,11 @@ massiv = [5, 3, 7, 1, 9]
 
 # yig'indini hisoblash
 aggregat_turi = 'sum'
-yigindi = aggregate(massiv, aggregat_turi)
+yig’indi = aggregate(massiv, aggregat_turi)
 
 
 # Massiv elementlari yig'indisi - 25
-puts "Massiv elementlari yig'indisi - #{yigindi}"
+puts "Massiv elementlari yig'indisi - #{yig’indi}"
 
 
 # maksimum qiymatni hisoblash

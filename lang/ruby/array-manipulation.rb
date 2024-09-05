@@ -1,7 +1,7 @@
 # Quyida berilgan massivning elementlari sonlar, faqat ular String
 # ko'rinishda ifodalangan. Massivning har bir elementini o'ziga mos
-# keladigan son ma'lumot turiga o'tkazing va 2 ga ko'aytiring. Hosil
-# bo'lgan yangi massivning chop eting.
+# keladigan son ma'lumot turiga o'tkazing va 2 ga ko'ko’paytiring. Hosil
+# bo'lgan yangi massivni chop eting.
 
 
 massiv = ["1", "2.4"]

@@ -2,7 +2,7 @@
 counter = 10
 
 
-# Dastur "begin" blokida boshladani
+# Dastur "begin" blokida boshlanadi
 begin
 # sonni chop etish
 puts counter

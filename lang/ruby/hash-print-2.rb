@@ -16,8 +16,8 @@ puts hash[:c] # 3 qiymat chop etiladi
 puts hash[:a].class # Array chop etadi
 
 
-# Hashning "a" kalitida berilgan qiymatning oxirigi elementini chop etish
-# Bu yerda hash[:a]=[1, 2, 3] va uning oxirigi elementi - 3 sonidir
+# Hashning "a" kalitida berilgan qiymatning oxirgi elementini chop etish
+# Bu yerda hash[:a]=[1, 2, 3] va uning oxirgi elementi - 3 sonidir
 puts hash[:a].last
 
 
@@ -26,8 +26,8 @@ puts hash[:a].last
 puts hash[:b].class # Hash chop etadi
 
 
-# Hashning "b" kalitida berilgan qiymatning oxirigi elementi qiymatini chop etish
-# Bu yerda hash[:b]={ a: 1, b: 2 } va uning oxirgi elementi qiymati - 2 sonidir, yani
+# Hashning "b" kalitida berilgan qiymatning oxirgi elementi qiymatini chop etish
+# Bu yerda hash[:b]={ a: 1, b: 2 } va uning oxirgi elementi qiymati - 2 sonidir, ya’ni
 # hashning "b" kalitidagi qiymat bu { a: 1, b: 2 } va uning oxirgi elementi bu "b: 2"
 # "b: 2" elementing kaliti "b" va unga biriktirilgan qiymat es 2
 # demak, hash[:b]={ a: 1, b: 2 } va hash[:b][:b]= 2 bo'ladi

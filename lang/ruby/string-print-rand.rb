@@ -4,7 +4,7 @@ matn_1 = "Ruby"
 
 # matn_1 harflarini birma-bir chop etish
 # Quyida ko'rishimiz mumkin, matnning har bir harfini
-# o'qish va uni chop etish huddi massiv elementlarini
+# o'qish va uni chop etish xuddi massiv elementlarini
 # o'qish va ularni chop etishga o'xshaydi
 
 
@@ -34,11 +34,11 @@ matn_2 = "Salom, Ruby!"
 
 # quyida matn_2[0, 5] - matn_2 ning 0 chi harfidan boshlab 5 ta
 # harfni ajratib olishni anglatadi
-puts "[] yoradmida 'Salom' so'zini ajratib olish va chop etish"
+puts "[] yordamida 'Salom' so'zini ajratib olish va chop etish"
 puts matn_2[0, 5]
 
 
 # quyida matn_2.slice(0, 5) - matn_2 ning 0 chi harfidan boshlab 5 ta
 # harfni ajratib olishni anglatadi
-puts ".slice yoradmida 'Salom' so'zini ajratib olish va chop etish"
+puts ".slice yordamida 'Salom' so'zini ajratib olish va chop etish"
 puts matn_2.slice(0, 5)

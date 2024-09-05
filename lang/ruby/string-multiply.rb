@@ -1,4 +1,4 @@
-# 5 martda Salom so'zini takrlang
+# 5 martda Salom so'zini takrorlang
 # Salom Salom Salom Salom Salom
 puts "Salom " * 5
 

@@ -1,4 +1,4 @@
-# na'muna
+# namuna
 # quyidagi "salomlashish" metodi
 def salomlashish
   # ushub metod - Salom! so'zini chop etadi

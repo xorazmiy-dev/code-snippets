@@ -6,7 +6,7 @@
 # 3 Dasturchi
 
 
-# Dasturda bir nechta "gets"laning ishlashi:
+# Dasturda bir nechta "gets" larning ishlashi:
 # "gets" metodi 1 - marta ishlatilganda 1 - qatordagi
 # ma'lumotni oladi (o'qiydi) va 2 - marta ishlatilganda esa
 # 2 - qatordagi ma'lumotni oladi va shu kabi davom etadi

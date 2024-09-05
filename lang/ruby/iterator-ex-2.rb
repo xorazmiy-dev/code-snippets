@@ -1,4 +1,4 @@
-# Quyidagi sonlarni massiv e'lon qiling
+# Quyidagi sonlarning massivini e'lon qiling
 # 6, 8, 12, 10, 7, 11, 4
 
 
@@ -10,5 +10,5 @@
 # saralangan_massiv =
 
 
-# Saralngan massivni chop etish
+# Saralangan massivni chop etish
 # pp saralangan_massiv

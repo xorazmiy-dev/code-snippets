@@ -8,7 +8,7 @@ counter = 1
 
 # sikl boshlanishi
 begin
-  # Sonni toqligin tekshirish
+  # Sonni toqligini tekshirish
   if counter.odd?
     # Massivga element qo'shish
     massiv << counter

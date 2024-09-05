@@ -1,5 +1,5 @@
-# Massiv e"lon qilish
-ismlar = ["anvaro", "hilola", "sanjar", "abror", "bekzod"]
+# Massiv e’lon qilish
+ismlar = ["anvar", "hilola", "sanjar", "abror", "bekzod"]
 
 
 # Bosh harflangan massiv
@@ -10,5 +10,5 @@ yangi_massiv = ismlar.map { |ism| ism.capitalize }
 saralangan_massiv = yangi_massiv.select { |ism| ism.length < 6 }
 
 
-# Saralngan massivni chop etish - ["Abror"]
+# Saralangan massivni chop etish - ["Abror"]
 pp saralangan_massiv

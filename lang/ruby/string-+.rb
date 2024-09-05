@@ -13,9 +13,9 @@ puts matn_2
 
 
 # o'zgaruvchilarni matnlarda birlashtirish
-sizning_ismningiz = "Anvaro"
+sizning_ismingiz = "Anvaro"
 sizning_familiyangiz = "Bekchanov"
-men_haiqimda = "Mening ismin " + sizning_ismningiz + " va familiyam " + sizning_familiyangiz + "."
+men_haqimda  = "Mening ismim " + sizning_ismingiz + " va familiyam " + sizning_familiyangiz + "."
 #
 # chop etiladi - Mening ismin Anvaro va familiyam Bekchanov.
-puts men_haiqimda
+puts men_haqimda

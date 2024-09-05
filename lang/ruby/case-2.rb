@@ -4,7 +4,7 @@ hafta_kuni = "Dushanba"
 case hafta_kuni
 when "Dushanba", "Seshanba", "Chorshanba", "Payshanba", "Juma"
   puts "Berilgan hafta kuni - ish kuni."
-when "Shanba", "Yakshaba"
+when "Shanba", "Yakshanba"
   puts "Berilgan hafta kuni - dam olish kuni."
 end
 # Dastur chop etadi:

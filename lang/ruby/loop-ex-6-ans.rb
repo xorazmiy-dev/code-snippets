@@ -1,4 +1,4 @@
-# matn_hajmi metodi e'lon qilish
+# matn_hajmi metodini e'lon qilish
 def matn_hajmi(matn)
   # takrorlanishlar soni, uni matn harflariga murojaat qilish
   # uchun ham ishlatish mumkin
@@ -9,7 +9,7 @@ def matn_hajmi(matn)
   loop do
     # agar "matn[counter] == nil" to'g'ri bo'lsa demak matnda harflar qolmagan
     if matn[counter] == nil
-    # matnda harflar qolmagan takrorlanishdagi soni qaytaramiz
+    # matnda harflar qolmagan takrorlanishdagi sonini qaytaramiz
       return counter
     end
 
