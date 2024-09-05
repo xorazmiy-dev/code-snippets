@@ -4,7 +4,7 @@ baholar = {
   'Sanjar' => 72,
   'Bekzod' => 87,
   'Ulfat' => 100,
-  'Anvaro' => 59
+  'Anvar' => 59
 }
 
 

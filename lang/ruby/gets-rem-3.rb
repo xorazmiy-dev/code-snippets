@@ -9,12 +9,12 @@
 # turi faqat matn (String) bo'lishini isbotlab beradi
 #
 ism = gets.chomp
-puts ism.class # ism o'zgaruvchsining ma'lumot turi - String
+puts ism.class # ism o’zgaruvchisining ma'lumot turi - String
 
 
 yil = gets.chomp
-puts yil.class # yil o'zgaruvchsining ma'lumot turi - String
+puts yil.class # yil o’zgaruvchisining ma'lumot turi - String
 
 
 massiv = gets.chomp
-puts massiv.class # massiv o'zgaruvchsining ma'lumot turi - String
+puts massiv.class # massiv o’zgaruvchisining ma'lumot turi - String

@@ -2,8 +2,8 @@ sonli_massiv = [3, 1, 2]
 harfli_massiv = ['b', 'a', 'c']
 
 
-# ".sort" chaqirlgan massivning nusxasi bilan
-# ishlaydi. Bunda nusxalangan massivni saralydi
+# ".sort" chiqarilgan massivning nusxasi bilan
+# ishlaydi. Bunda nusxalangan massivni saralaydi
 # va uni qaytaradi.
 saralangan_sonli_massiv = sonli_massiv.sort
 saralangan_harfli_massiv = harfli_massiv.sort

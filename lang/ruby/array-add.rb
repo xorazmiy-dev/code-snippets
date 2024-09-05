@@ -16,6 +16,6 @@ pp massiv
 # Yuqoridagi dasturni analiz qilamiz
 # massiv o'lchovi - 5
 # massivning oxirgi indeksi - 4
-# massivga yangi element kritish indeksi - 4 (oxirgi indeks) + 1 = 5
-# demak har qandany massivga qo'shiladigan yangi elementning indeksi
+# massivga yangi element kiritish indeksi - 4 (oxirgi indeks) + 1 = 5
+# demak har qanday massivga qo'shiladigan yangi elementning indeksi
 # o'sha massivning o'lchami bo'ladi.

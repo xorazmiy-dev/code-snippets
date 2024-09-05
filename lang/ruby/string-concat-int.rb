@@ -3,7 +3,7 @@ yoshingiz = 24
 puts "Man " + 24 + " yoshdaman!"
 
 
-# Yuqoridagi dasturni ushga tushirganda quyidagi hatolik ro'y beradi
+# Yuqoridagi dasturni ishga tushirganda quyidagi xatolik ro'y beradi
 # >> `+': no implicit conversion of Integer into String (TypeError) <<
 # Buning sababi matnga to'g'ridan-to'g'ri sonni biriktirib bo'lmaydi.
 # Matnda sonlarni birlashtirish uchun sonlarni matn (String) ma'lumot

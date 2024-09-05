@@ -3,7 +3,7 @@ internet_toplam_narxi = 10000
 
 
 # Agar hisobdagi mablag' yetarli bo'lsa internet to'plamiga ulansin
-# Yoki hisobni to'ldirish haqida habar berilsin
+# Yoki hisobni to'ldirish haqida xabar berilsin
 
 
 # hisobdagi_mablag > internet_toplam_narxi = false

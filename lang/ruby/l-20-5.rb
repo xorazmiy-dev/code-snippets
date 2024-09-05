@@ -3,7 +3,7 @@ sonlar = [53, 56, 32, 60, 2, 68, 11, 55, 27, 61]
 
 
 # 1. "sonlar" massivining har bir elementini mos indekslari bilan birga chop etish.
-# Quyida "each_with_index" iterotidan foydalanilgan. Bunda "each_with_index" huddi "each" kabi ishlaydi.
+# Quyida "each_with_index" iteratoridan foydalanilgan. Bunda "each_with_index" xuddi "each" kabi ishlaydi.
 # Faqat "each_with_index" iteratori massiv elementi va uning indeksini ko'rsatadi.
 puts "Index - Element"
 sonlar.each_with_index do |son, indeks|
@@ -77,7 +77,7 @@ pp yangi_massiv
 
 
 # 13. "sonlar" massivining 50 dan kichik bo’lgan barcha elementlarini o’chirish va "sonlar" massivini chop etish
-# "delete_if" metodi orqali massiv elementlarini berilgan shart bo'yicha o'chiradi.
+# "delete_if" metodi massiv elementlarini berilgan shart bo'yicha o'chiradi.
 sonlar.delete_if { |son| son < 50 }
 puts "\n50 dan kichik elementlari o'chirilgan massiv:"
 pp sonlar

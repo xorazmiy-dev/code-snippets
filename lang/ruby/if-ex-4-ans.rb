@@ -27,7 +27,7 @@ parol = gets.chomp
 #
 # 3 - foydalanuvchilar[username.to_sym][:parol] - foydalanuvchilar ma'lumotlaridan
 # :'botir_coder' kalitiga biriktirilgan ma'lumotni oladi va undagi :parol
-# kalitigia biriktirilgan qiymatni "parol" bilan taqqoslaydi. Bunda,
+# kalitiga biriktirilgan qiymatni "parol" bilan taqqoslaydi. Bunda,
 # foydalanuvchilar[username.to_sym][:parol] == parol - true qiymat beradi
 #
 if foydalanuvchilar.has_key?(username.to_sym) && foydalanuvchilar[username.to_sym][:parol] == parol

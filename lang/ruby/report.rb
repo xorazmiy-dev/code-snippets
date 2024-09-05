@@ -1,22 +1,22 @@
-# Maxsulotlar nomi
+# Mahsulotlar nomi
 shakar = "Shakar"
 banan = "Banan"
 sut = "Sut"
 
 
-# Maxsulotlarning mavjud miqdori
+# Mahsulotlarning mavjud miqdori
 jami_shakar = 50
 jami_banan = 40
 jami_sut = 20
 
 
-# Maxsulotlar narxlari (so'mda 1 donasi, kilosi yoki litri uchun)
+# Mahsulotlar narxlari (so'mda 1 donasi, kilosi yoki litri uchun)
 narx_shakar = 10000
 narx_banan = 20000
 narx_sut = 10000
 
 
-# Kunlik sotilgan maxsulotlar miqdori (dona, kiloda yoki litrda)
+# Kunlik sotilgan mahsulotlar miqdori (dona, kiloda yoki litrda)
 sotildi_shakar = 30
 sotildi_banan = 20
 sotildi_sut = 15
@@ -35,7 +35,7 @@ qoldi_sut = jami_sut - sotildi_sut
 
 
 puts "========================================================"
-puts "======               KUNLIK XISOBOT               ======"
+puts "======               KUNLIK HISOBOT               ======"
 puts "========================================================"
 puts "#{shakar}: | Kunlik tushum - #{tushum_shakar} | Omborda qoldi: #{qoldi_shakar} |"
 puts "#{banan}: | Kunlik tushum - #{tushum_banan} | Omborda qoldi: #{qoldi_banan} |"

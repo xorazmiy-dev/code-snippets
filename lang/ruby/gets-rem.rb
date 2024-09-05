@@ -5,7 +5,7 @@
 # "Kirish" konsoliga kiritilgan ismga teng qiladi. Bunda "Kirish"
 # konsolidagi ismni "gets" orqali oladi (o'qiydi)
 #
-# 2 - "ism" o'zgaruvchisi qiymatidan foydalanib, "Salon Ism!"
+# 2 - "ism" o'zgaruvchisi qiymatidan foydalanib, "Salom Ism!"
 # matnini chop etadi
 #
 

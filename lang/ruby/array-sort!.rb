@@ -4,7 +4,7 @@ harfli_massiv = ['b', 'a', 'c']
 
 
 
-# ".sort!" chaqirlgan massivning o'zida saralashni
+# ".sort!" chiqarilgan massivning o'zida saralashni
 # bajaradi va uni qaytaradi.
 saralangan_sonli_massiv = sonli_massiv.sort!
 saralangan_harfli_massiv = harfli_massiv.sort!

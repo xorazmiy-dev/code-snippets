@@ -55,7 +55,7 @@ end
 
 # foydalanuvchilar[2][:age] = 19 va max_age = 21
 # demak, foydalanuvchilar[1][:age] > max_age => false
-# bu "if" sharti bajarilmaydi chunku 19 soni 21 dan katta emas
+# bu "if" sharti bajarilmaydi chunki 19 soni 21 dan katta emas
 if foydalanuvchilar[2][:age] > max_age
   max_age = foydalanuvchilar[2][:age]
   index = 2

@@ -1,5 +1,5 @@
-# yigindi metod
-def yigindi(num_1, num_2)
+# yig’indi metod
+def yig’indi(num_1, num_2)
   num_1 + num_2
 end
 
@@ -22,7 +22,7 @@ def bolinma(num_1, num_2)
 end
 
 
-# Krirish konsolidan ma'lumotlarni o'qish
+# Kirish konsolidan ma'lumotlarni o'qish
 operator = gets.chomp
 
 
@@ -33,7 +33,7 @@ son_2 = gets.chomp.to_f
 
 case operator
 when "+"
-  puts yigindi(son_1, son_2)
+  puts yig’indi(son_1, son_2)
 when "-"
   puts ayirma(son_1, son_2)
 when "*"

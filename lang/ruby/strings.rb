@@ -6,7 +6,7 @@ nom = "Dasturchi"
 puts nom
 
 
-# So'z brikmalari
+# So'z birikmalari
 gap = "Xorazmiy Dev bilan dasturlash yanada oson!"
 puts gap
 
