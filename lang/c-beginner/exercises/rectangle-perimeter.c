@@ -5,10 +5,10 @@ int main() {
     int b; // 2-tomon
     int p; // perimeter
 
-    scanf("%d", &a); // 1-tomon uzunligini a ga saqlaymiz
-    scanf("%d", &b); // 2-tomon uzunligini a ga saqlaymiz
+    scanf("%d", &a);
+    scanf("%d", &b); 
 
-    p = a + a + b + b;
+    p = a + a + b + b; // perimeterni hisoblaymiz
 
     printf("%d\n", p);
 
