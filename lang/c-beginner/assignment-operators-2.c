@@ -9,23 +9,23 @@ int main() {
 
     // Qo'shish va Tayinlash (+=) | a = a + 5
     a += 5; // Endi a 15 ga teng
-    printf("+= dan keyin: %d\n", a);
+    printf("a: %d\n", a);
 
     // Ayirish va Tayinlash (-=) | b = b - 2
     b -= 2; // Endi b 8 ga teng
-    printf("-= dan keyin: %d\n", b);
+    printf("b: %d\n", b);
 
     // Ko'paytirish va Tayinlash (*=) | c = c * 3
     c *= 3; // Endi c 30 ga teng
-    printf("*= dan keyin: %d\n", c);
+    printf("c: %d\n", c);
 
     // Bo'lish va Tayinlash (/=) | d = d / 2
     d /= 2; // Endi d 5 ga teng
-    printf("/= dan keyin: %d\n", d);
+    printf("d: %d\n", d);
 
     // Qoldiqni hisoblash va Tayinlash (%=) | e = e % 4
     e %= 4; // Endi e 2 ga teng
-    printf("%= dan keyin: %d\n", e);
+    printf("e: %d\n", e);
 
     return 0;
 }
