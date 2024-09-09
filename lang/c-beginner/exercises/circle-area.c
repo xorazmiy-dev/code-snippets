@@ -3,7 +3,7 @@
 int main() {
   // kodni shu yerga yozing
   float R;
-  const pi = 3.14;
+  const float pi = 3.14;
 
   scanf("%f", &R);
 
