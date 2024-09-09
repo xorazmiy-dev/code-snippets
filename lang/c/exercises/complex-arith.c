@@ -2,9 +2,11 @@
 
 int main() {
   // kodni shu yerga yozing
+  float a;
+  float b;
 
-  float a = 10.9;
-  float b = 5.5;
+  scanf("%f", &a);
+  scanf("%f", &b);
 
   float natija = a*a + 2*a*b + b*b;
 
