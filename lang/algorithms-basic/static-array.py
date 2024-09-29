@@ -40,7 +40,7 @@ array = StaticArray(5)
 array.insert(0, 10)
 array.insert(1, 20)
 array.insert(1, 15)
-print(array)  # Chiquvchi ma'lumot: [10, 15, 20, None, None]
-print(array.find(20))  # Chiquvchi ma'lumot: 2
+print(array)  # Natija: [10, 15, 20, None, None]
+print(array.find(20))  # Natija: 2
 array.remove(15)
-print(array)  # Chiquvchi ma'lumot: [10, 20, None, None, None]
+print(array)  # Natija: [10, 20, None, None, None]
