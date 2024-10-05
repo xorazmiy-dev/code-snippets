@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 #include "sum.h"
+#include "headers/mult.h"
 
 int main(void) {
     int a, b;
@@ -8,7 +9,7 @@ int main(void) {
     FILE *file = fopen("file.txt", "r");
     if (file == NULL) {
         printf("Error: Could not open file.\n");
-        return 0;
+        return 1;
     }
 
     // Read two space-separated integers from the file
@@ -18,7 +19,8 @@ int main(void) {
         printf("Error: Could not read two integers from the file.\n");
     }
 
-    printf("sum = %d", sum(a, b));
+    printf("sum = %d\n", sum(a, b));
+    printf("mult = %d\n", mult(a, b));
 
     fclose(file);
     return 0;
