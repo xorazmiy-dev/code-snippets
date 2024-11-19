@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <script>
 let age = prompt("Yoshingiz nechada?");
 alert(age);

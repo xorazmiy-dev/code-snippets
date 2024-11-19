@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <script>
 let javob = confirm("Siz dasturlashni yaxshi korasizmi?");
 
