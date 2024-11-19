@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<script>
+    function savolBering(savol, ha, yoq) {
+        let natija = confirm(savol);
+
+
+        if (natija) {
+            ha();
+    } else {
+        yoq();
+    }
+    }
+
+
+    sayHi(
+        "Javascript yoqadimi?", 
+        function() {
+            alert("Albatta");
+        }, 
+        function() {
+            alert("Umuman yo’q");
+        }
+    );
+</script>
