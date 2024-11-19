@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<script>
+	let a = 1, b = 2;
+	let c = 3 - (a = b + 1);
+	alert(a); // 3 -> b + 1 ishlaydi va keyin tenglashtiriladi
+	alert(b); // 2 -> o’zgarmasdan qoladi
+	alert(c); // 0 -> arifmetik amallardan so’ng ishlaydi
+</script>
