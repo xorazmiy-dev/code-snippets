@@ -1,0 +1,65 @@
+<form>
+    <h3>Ro'yxatdan o'tish uchun ma'lumotlar</h3>
+    <fieldset>
+        <legend>Foydalanuvchi haqida ma'lumotlar</legend>
+
+        <label for="to'liq-ism">To'liq ismingiz:</label>
+        <input type="to'liq-ism" id="to'liq-ism" name="to'liq-ism" placeholder="To'liq ismingizni kiriting" required>
+        <br/>
+
+        <label for="email">Emailingiz:</label>
+        <input type="email" id="email" name="email" placeholder="Emailingizni kiriting" required>
+        <br/>
+        
+        <label for="yosh">Yoshingiz:</label>
+        <input type="number" id="yosh" name="yosh" placeholder="Yoshingizni kiriting">
+        <br/>
+        
+        <label for="jins">Jinsingiz:</label>
+        <input type="radio" id="erkak" name="jins" value="erkak" def>
+        <label for="male">Erkak</label>
+        <input type="radio" id="ayol" name="jins" value="ayol">
+        <label for="ayol">Ayol</label>
+        <br/>
+
+        <label for="davlat">Davlatingiz:</label>
+        <select id="davlat" name="davlat" required>
+            <option value="uzbekistan">O'zbekiston</option>
+            <option value="aqsh">AQSh</option>
+            <option value="yaponiya">Yaponiya</option>
+            <option value="kanada">Kanada</option>
+        </select>
+    </fieldset>
+    
+    <br/>
+
+    <fieldset>
+        <legend>Login va Parol</legend>
+        <label for="login">Login:</label>
+        <input type="text" id="login" name="login" placeholder="Loginingizni kiriting" required>
+        <br/>
+        
+        <label for="parol">Parol:</label>
+        <input type="password" id="parol" name="parol" placeholder="Parolingizni kiriting" required>
+    </fieldset>
+    
+    <br/>
+
+    <fieldset>
+        <legend>O'zingiz haqingizda qisqacha ma'lumot</legend>
+        
+        <label for="qisqa-ma'lumot">Qisqa ma'lumot:</label>
+        <textarea id="qisqa-ma'lumot" name="qisqa-ma'lumot" rows="4" cols="50" placeholder="Qiziqishlaringiz, ishingiz, o'qishingiz haqida ma'lumot ulashishingiz mumkin"></textarea>
+    </fieldset>
+
+    <br/>
+
+    <div>
+        <input type="checkbox" id="shartlar" name="shartlar" value="shartlar">
+        <label for="shartlar">Veb sahifa <a href="/veb-sahifa-shartlari" target="_blank">shartlariga</a> roziman</label>
+    </div>
+    <br/>
+
+    <button type="submit">Yuborish</button>
+    <button type="reset">Qayta o'rnatish</button>
+</form>
